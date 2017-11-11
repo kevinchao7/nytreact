@@ -5,6 +5,9 @@
   overflow-y: scroll;
   overflow-x: hidden;
 }
+.list-group-item{
+  padding: 10px 15px 20px;
+}
 
 .list-overflow-container ul {
   margin: 0;
